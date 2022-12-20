@@ -2,11 +2,15 @@ import menuButton from "./assets/menu icon svg.png";
 
 const Navbar = () => {
 
-  hamburger = document.querySelector(".menu");
+  /*menuClick(){
+    console.log(working)
+    navBar = document.querySelector(".nav ul");
+    navBar.classList.toggle("active");
+  }*/
 
   return (
     <div className="navbar">
-      <img src={ menuButton } className="menu"/>
+      <img src={ menuButton } onClick= { menuClick() } />
       <div className="nav">
         <ul>
           <li><a href="#">Home</a></li>

@@ -12,9 +12,7 @@
   cursor: pointer;
 
 }
-.nav{
-  
-}
+
 .nav ul{
   z-index: 100;
   top: 6%;
@@ -27,9 +25,9 @@
   justify-content: center;
   background: gainsboro;
 }
-.nav ul.active{
-
-}
+/*.nav ul:active{
+  height: 30%;
+}*/
 .nav ul li{
   margin-bottom: 20px;
 }
