@@ -1,9 +1,12 @@
 import menuButton from "./assets/menu icon svg.png";
 
 const Navbar = () => {
+
+  hamburger = document.querySelector(".menu");
+
   return (
     <div className="navbar">
-      <img src={ menuButton } />
+      <img src={ menuButton } className="menu"/>
       <div className="nav">
         <ul>
           <li><a href="#">Home</a></li>
