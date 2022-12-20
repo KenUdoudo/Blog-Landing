@@ -1,9 +1,9 @@
-import menuButton from "./assets/menu icon svg.png"
+import menuButton from "./assets/menu icon svg.png";
 
 const Navbar = () => {
   return (
     <div className="navbar">
-      <img src="menuButton" />
+      <img src={ menuButton } />
     </div>
   );
 }
