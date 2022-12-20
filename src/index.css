@@ -1,0 +1,6 @@
+/*large mobiles*/
+.navbar img{
+  position: absolute;
+  right: 5%;
+  cursor: pointer;
+}
