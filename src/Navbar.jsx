@@ -6,10 +6,10 @@ const Navbar = () => {
       <img src={ menuButton } />
       <div className="nav">
         <ul>
-          <li>Home</li>
-          <li>About</li>
-          <li>Blog</li>
-          <li>Contact</li>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Blog</a></li>
+          <li><a href="#">Contact</a></li>
         </ul>
       </div>
     </div>
