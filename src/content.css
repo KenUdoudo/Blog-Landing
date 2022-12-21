@@ -24,9 +24,30 @@
   color: black;
   cursor: pointer;
 }
+.backdrop{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 .backdrop img{
   position: relative;
   z-index: -1;
-  width: 100%;
-  margin-top: 2%;
+  width: 98%;
+  margin-top: 2%; 
+}
+.backdrop-text{
+  position: absolute;
+  text-align: center;
+  background: rgba(255, 255, 255, 0.589);
+  width: 80%;
+  padding: 7% 0;
+}
+.backdrop-text h1{
+  font-size: 24px;
+  margin-bottom: 5%;
+}
+.backdrop-text p{
+  font-size: 11px;
+  padding: 0 10%;
+  line-height: 17px;
 }
