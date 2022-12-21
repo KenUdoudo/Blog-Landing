@@ -1,3 +1,4 @@
+import Content from './content'
 import Navbar from './Navbar'
 
 function App() {
@@ -5,6 +6,7 @@ function App() {
   return (
     <div className="App">
       <Navbar />
+      <Content />
     </div>
   )
 }
