@@ -10,3 +10,17 @@
 .top-header p{
   font-size: 11px;
 }
+.bottom-header{
+  margin-top: 5%;
+}
+#head-list{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5%;
+  margin: 2% 0;
+}
+#head-list li a{
+  color: black;
+  cursor: pointer;
+}

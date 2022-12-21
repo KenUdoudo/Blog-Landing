@@ -7,7 +7,7 @@ const Header = () => {
       </div>
       <div className="bottom-header">
         <hr />
-        <ul>
+        <ul id="head-list">
           <li><a href="#">Archives</a></li>
           <li><a href="#"> Selfcare project</a></li>
           <li><a href="#">Stress</a></li>
