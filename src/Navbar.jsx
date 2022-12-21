@@ -3,9 +3,9 @@ import menuButton from "./assets/menu icon svg.png";
 const Navbar = () => {
   const navBar = document.querySelector(".nav ul");
 
-  menuClick(){
+  /*menuClick(){
     navBar.classList.toggle("active");
-  }
+  }*/
 
   return (
     <div className="navbar">

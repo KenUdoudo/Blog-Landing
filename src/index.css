@@ -16,8 +16,9 @@
 .nav ul{
   z-index: 100;
   top: 6%;
+  left: -100%;
   width: 100%;
-  height: 0;
+  height: 30%;
   position: absolute;
   display: flex;
   flex-direction: column;
@@ -26,7 +27,7 @@
   background: gainsboro;
 }
 /*.nav ul:active{
-  height: 30%;
+  left: 0;
 }*/
 .nav ul li{
   margin-bottom: 20px;
