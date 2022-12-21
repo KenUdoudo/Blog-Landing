@@ -1,4 +1,5 @@
 import Header from "./header";
+import './content.css'
 
 const Content = () => {
 
