@@ -1,5 +1,6 @@
 import Header from "./header";
 import FirstSection from "./firstsection";
+import SecondSection from "./secondsection";
 import './content.css'
 
 const Content = () => {
@@ -9,6 +10,8 @@ const Content = () => {
       <Header />
       
       <FirstSection />
+
+      <SecondSection />
     </div>
   );
 }
