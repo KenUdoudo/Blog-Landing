@@ -63,12 +63,15 @@
   justify-content: center;
   align-items: center;
   gap: 5%;
-  padding: 0 3%;
+  padding: 3% 3% 0 3%;
 }
 .Blog img{
   width: 40%;
   height: 10%;
 }
-.Blog1text{
-  
+.Blog1text p{
+ font-size: 15px;
+}
+.Blog1text h1{
+  font-size: 16px;
 }
