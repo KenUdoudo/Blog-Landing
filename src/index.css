@@ -26,9 +26,9 @@
   justify-content: center;
   background: gainsboro;
 }
-/*.nav ul:active{
+.nav ul.active{
   left: 0;
-}*/
+}
 .nav ul li{
   margin-bottom: 20px;
 }
