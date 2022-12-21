@@ -1,8 +1,8 @@
 import menuButton from "./assets/menu icon svg.png";
 
 const Navbar = () => {
-  const hamburger = document.querySelector(".menu")
-  const navBar = document.querySelector(".nav ul");
+
+  const navBar = document.querySelector(".navul");
 
   const navClick = () => {
     navBar.classList.toggle("active");
@@ -10,9 +10,9 @@ const Navbar = () => {
 
   return (
     <div className="navbar">
-      <img src={ menuButton } className="menu" onClick={ navClick } />
+      <img src={menuButton} onClick={navClick} />
       <div className="nav">
-        <ul>
+        <ul className="navul active">
           <li><a href="#">Home</a></li>
           <li><a href="#">About</a></li>
           <li><a href="#">Blog</a></li>
@@ -22,5 +22,5 @@ const Navbar = () => {
     </div>
   );
 }
- 
+
 export default Navbar;
