@@ -21,9 +21,9 @@ const SecondSection = () => {
         <div className="Blog Blog2">
           <img src={ blogImage }/>
           <div className="Blog1text">
-            <p>Productivity</p>
-            <h1>The Daily Productivity Planner</h1>
-            <p>I have some big news! I've created a daily planner that will help you be more mindful and intentional throughout your day</p>
+            <p>Mindset</p>
+            <h1>HOW TO PRACTICE GRATITUDE WHEN ITS NOT WORKING FOR YOU</h1>
+            <p>If you find it tricky to practice gratitude, here are five simple gratitude tips to make it easier (without it feeling forced).</p>
             <a href="#"><button>Read</button></a>
           </div>
         </div>
@@ -33,14 +33,14 @@ const SecondSection = () => {
         <div className="Blog Blog3">
           <img src={ blogImage }/>
           <div className="Blog1text">
-            <p>Productivity</p>
-            <h1>The Daily Productivity Planner</h1>
-            <p>I have some big news! I've created a daily planner that will help you be more mindful and intentional throughout your day</p>
+          <p>Mindset</p>
+            <h1>HOW TO PRACTICE GRATITUDE WHEN ITS NOT WORKING FOR YOU</h1>
+            <p>If you find it tricky to practice gratitude, here are five simple gratitude tips to make it easier (without it feeling forced).</p>
             <a href="#"><button>Read</button></a>
           </div>
         </div>
       </div>
-      
+
       <hr />
     </div>
   );
