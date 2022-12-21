@@ -25,5 +25,6 @@
   cursor: pointer;
 }
 .backdrop img{
-  
+  width: 100%;
+  margin-top: 2%;
 }
