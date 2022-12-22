@@ -12,7 +12,7 @@ const SecondSection = () => {
             <p>Productivity</p>
             <h1>The Daily Productivity Planner</h1>
             <p>I have some big news! I've created a daily planner that will help you be more mindful and intentional throughout your day</p>
-            <a href="#"><button>Read</button></a>
+            <a href="#"><button id='blog-btn'>Read</button></a>
           </div>
         </div>
 
