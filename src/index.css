@@ -13,7 +13,7 @@
 
 }
 
-.navul{
+.navul.active{
   z-index: 100;
   top: 6%;
   left: 0;
@@ -26,6 +26,9 @@
   justify-content: center;
   background: gainsboro;
   
+}
+.navul.inactive{
+  left: -100%;
 }
 .nav ul li{
   margin-bottom: 20px;
