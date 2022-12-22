@@ -82,6 +82,10 @@
 }
 .blogflex{
   display: flex;
-  flex-direction: column;
-  
+  flex-direction: column; 
+}
+button{
+  padding: 1.5% 4%;
+  background: white;
+  border-color: black;
 }
