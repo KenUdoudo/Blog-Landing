@@ -24,7 +24,7 @@ const SecondSection = () => {
             <p>Mindset</p>
             <h1>HOW TO PRACTICE GRATITUDE WHEN ITS NOT WORKING FOR YOU</h1>
             <p>If you find it tricky to practice gratitude, here are five simple gratitude tips to make it easier (without it feeling forced).</p>
-            <a href="#"><button>Read</button></a>
+            <a href="#"><button id='blog-btn'>Read</button></a>
           </div>
         </div>
 
@@ -36,7 +36,7 @@ const SecondSection = () => {
           <p>Mindset</p>
             <h1>HOW TO PRACTICE GRATITUDE WHEN ITS NOT WORKING FOR YOU</h1>
             <p>If you find it tricky to practice gratitude, here are five simple gratitude tips to make it easier (without it feeling forced).</p>
-            <a href="#"><button>Read</button></a>
+            <a href="#"><button id='blog-btn'>Read</button></a>
           </div>
         </div>
       </div>
