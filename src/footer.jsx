@@ -1,5 +1,8 @@
 import './footer.css'
 import Facebook from './assets/surface1fb.png'
+import Twitter from './assets/surface1tweet.svg'
+import Indeed from './assets/surface1indeed.png'
+import d from './assets/surface1d.png'
 const Footer = () => {
   return (
     <div className="footer">
