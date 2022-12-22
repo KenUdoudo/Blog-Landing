@@ -54,6 +54,9 @@
 .second-head{
   margin-top: 4%;
 }
+.second-head hr{
+  margin: 2% 0;
+}
 .sechead{
   text-align: center;
   font-size: 24px;
