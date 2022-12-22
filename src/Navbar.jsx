@@ -1,16 +1,15 @@
 import menuButton from "./assets/menu icon svg.png";
+import { useState } from "react";
 
 const Navbar = () => {
 
-  const navBar = document.querySelector(".navul");
+  //const navBar = document.querySelector(".navul");
 
-  const navClick = () => {
-    navBar.classList.toggle("active");
-  }
+  
 
   return (
     <div className="navbar">
-      <img src={menuButton} onClick={navClick} />
+      <img src={menuButton} />
       <div className="nav">
         <ul className="navul active">
           <li><a href="#">Home</a></li>
