@@ -13,10 +13,10 @@
 
 }
 
-.navul.active{
+.navul.inactive{
   z-index: 100;
   top: 6%;
-  left: 0;
+  left: -100%;
   width: 100%;
   height: 30%;
   position: absolute;
@@ -25,10 +25,22 @@
   align-items: center;
   justify-content: center;
   background: gainsboro;
+  transition: 0.5s;
   
 }
-.navul.inactive{
-  left: -100%;
+.navul.active{
+  z-index: 100;
+  top: 6%;
+  width: 100%;
+  left: 0;
+  height: 30%;
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: gainsboro;
+  transition: 0.5s;
 }
 .nav ul li{
   margin-bottom: 20px;
