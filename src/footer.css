@@ -27,4 +27,13 @@
 }
 .footer-main form input{
   margin-top: 5%;
+  padding: 3% 60% 3% 1%;
+  border-color: black;
+  border-width: 1px;
+}
+#submitbtn{
+  margin-top: 5%;
+  padding: 5% 15%;
+  border-width: 0;
+  background: grey;
 }
