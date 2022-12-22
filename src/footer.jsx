@@ -1,5 +1,5 @@
 import './footer.css'
-
+import Facebook from './assets/surface1fb.png'
 const Footer = () => {
   return (
     <div className="footer">
