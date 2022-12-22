@@ -88,4 +88,6 @@ button{
   padding: 1.5% 4%;
   background: white;
   border-color: black;
+  position: relative;
+  left: 70%;
 }
