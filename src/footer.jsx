@@ -11,6 +11,15 @@ const Footer = () => {
           <button type="submit" id='submitbtn'>Go</button>
         </form>
       </div>
+      <div className="footer-bottom">
+        <p className="copyright">Copyright 2022-SelfCare.blog</p>
+        <div className="links">
+          <a href="#"><img src=""/></a>
+          <a href="#"><img src=""/></a>
+          <a href="#"><img src=""/></a>
+          <a href="#"><img src=""/></a>
+        </div>
+      </div>
     </div>
   );
 }
