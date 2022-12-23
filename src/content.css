@@ -132,4 +132,18 @@
     padding: 0 20%;
     line-height: 20px;
   }
+  .sechead{
+    font-size: 30px;
+  }
+  .Blog1text p{
+    font-size: 20px;
+    margin-bottom: 2%;
+   }
+   .Blog1text h1{
+     font-size: 21px;
+     margin-bottom: 2%;
+   }
+   #blog-btn{
+    font-size: 15px;
+   }
 }
