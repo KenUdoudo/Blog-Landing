@@ -103,3 +103,9 @@
   left: 70%;
   font-family: 'Dancing Script';
 }
+/*tablets*/
+@media screen and (min-width: 426px) {
+  .top-header h1{
+    font-size: 30px;
+  }
+}
