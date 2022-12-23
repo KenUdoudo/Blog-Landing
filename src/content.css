@@ -120,4 +120,11 @@
   #head-list li a{
     font-size: 20px;
   }
+  .backdrop-text{
+    width: 70%;
+    padding: 15% 0;
+  }
+  .backdrop-text h1{
+    font-size: 30px;
+  }
 }
