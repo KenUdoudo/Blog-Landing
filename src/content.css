@@ -114,4 +114,10 @@
   .top-header p{
     font-size: 24px;
   }
+  .bottom-header{
+    margin: 3%;
+  }
+  #head-list li a{
+    font-size: 20px;
+  }
 }
