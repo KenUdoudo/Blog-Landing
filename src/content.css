@@ -28,6 +28,7 @@
 #head-list li a{
   color: black;
   cursor: pointer;
+  font-family: 'Dancing Script';
 }
 .backdrop{
   display: flex;
@@ -50,11 +51,13 @@
 .backdrop-text h1{
   font-size: 24px;
   margin-bottom: 5%;
+  font-family: 'Dancing Script';
 }
 .backdrop-text p{
   font-size: 11px;
   padding: 0 10%;
   line-height: 17px;
+  font-family: 'Amatic SC';
 }
 .second-head{
   margin-top: 4%;
