@@ -9,9 +9,11 @@
 .top-header h1{
   font-size: 24px;
   margin-bottom: 2%;
+  font-family: 'Dancing Script';
 }
 .top-header p{
   font-size: 11px;
+  font-family: 'Amatic SC';
 }
 .bottom-header{
   margin-top: 5%;
