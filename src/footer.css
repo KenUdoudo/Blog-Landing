@@ -41,9 +41,13 @@
   padding: 5% 15%;
   border-width: 0;
   background: grey;
+  font-family: 'Dancing Script';
 }
 .footer-bottom{
   margin-top: 5%;
+}
+.copyright{
+  font-family: 'Roboto';
 }
 .links{
   margin-top: 3%;
