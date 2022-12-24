@@ -39,9 +39,10 @@ const SecondSection = () => {
             <a href="#"><button id='blog-btn'>Read</button></a>
           </div>
         </div>
+        <hr />
       </div>
 
-      <hr />
+      
     </div>
   );
 }

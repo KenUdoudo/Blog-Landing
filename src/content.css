@@ -152,4 +152,7 @@
   .blogflex hr{
     display: none;
   }
+  .blogflex{
+    flex-direction: row;
+  }
 }
