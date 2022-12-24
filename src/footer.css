@@ -71,3 +71,5 @@
     padding: 6% 20%;
   }
 }
+/*small laptops*/
+@media screen and (min-width: 1025px) {}

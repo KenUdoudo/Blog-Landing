@@ -52,5 +52,5 @@
   color: black;
   font-family: 'Roboto';
 }
-/*tablet screens*/
-@media screen and (min-width: 426px) {}
+/*small laptops*/
+@media screen and (min-width: 1025px) {}
