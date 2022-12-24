@@ -62,4 +62,8 @@
   .footer h1{
     font-size: 30px;
   }
+  .footer-main form input{
+    margin-top: 10%;
+    padding: 9% 100% 9% 4%;
+  }
 }
