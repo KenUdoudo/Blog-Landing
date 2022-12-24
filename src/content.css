@@ -148,4 +148,8 @@
    }
 }
 /*small laptops*/
-@media screen and (min-width: 1025px) {}
+@media screen and (min-width: 729px) {
+  .blogflex hr{
+    display: none;
+  }
+}
