@@ -57,3 +57,7 @@
   justify-content: center;
   column-gap: 5%;
 }
+/*tablets*/
+@media screen and (min-width: 426px) {
+  
+}
