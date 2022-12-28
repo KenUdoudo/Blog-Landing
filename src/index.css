@@ -55,15 +55,17 @@
 /*small laptops*/
 @media screen and (min-width: 729px) {
   .navul.inactive{
-    z-index: 0;
+    z-index: 1;
+    top: 0;
+    left: 0;
     width: 50%;
-    height: 30%;
-    position: static;
+    height: 10%;
+    position: absolute;
     display: flex;
     flex-direction: row;
     column-gap: 10%;
     background: none;
-    padding-top: 2%;
+   
     
   }
   .navbar img{
