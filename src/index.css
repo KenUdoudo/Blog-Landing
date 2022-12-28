@@ -67,7 +67,6 @@
     
   }
   .navbar img{
-    
     display: none;
   }
   .nav ul li{
@@ -75,6 +74,7 @@
   }
   .nav ul li:hover{
     background-color: beige;
-    padding: 3% 5%;
+    padding: 1% 2%;
+    border-radius: 5px;
   }
 }
