@@ -53,4 +53,19 @@
   font-family: 'Roboto';
 }
 /*small laptops*/
-@media screen and (min-width: 729px) {}
+@media screen and (min-width: 729px) {
+  .navul.inactive{
+    z-index: 100;
+    top: 6%;
+    left: 0;
+    width: 100%;
+    height: 30%;
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    background: gainsboro;
+    
+  }
+}
