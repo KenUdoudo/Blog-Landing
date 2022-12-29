@@ -52,6 +52,9 @@
   color: black;
   font-family: 'Roboto';
 }
+.navlinks{
+  display: none;
+}
 /*small laptops*/
 @media screen and (min-width: 729px) {
   .navul.inactive{
