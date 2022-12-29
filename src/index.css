@@ -88,7 +88,7 @@
     position: absolute;
     display: flex;
     flex-direction: row;
-    column-gap: 5%;
+    column-gap: 7%;
     background: none;
   }
   .navlinks img{
