@@ -155,4 +155,7 @@
   .blogflex{
     flex-direction: row;
   }
+  .backdrop img{
+    width: 92%;
+  }
 }
