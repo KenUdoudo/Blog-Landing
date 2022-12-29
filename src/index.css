@@ -9,7 +9,7 @@
   list-style: none;
   box-sizing: border-box;
 }
-.navbar img{
+#menubtn{
   position: absolute;
   right: 3%;
   cursor: pointer;
@@ -52,9 +52,7 @@
   color: black;
   font-family: 'Roboto';
 }
-.navlinks{
-  display: none;
-}
+
 /*small laptops*/
 @media screen and (min-width: 729px) {
   .navul.inactive{
@@ -82,16 +80,4 @@
     padding: 1% 2%;
     border-radius: 5px;
   }
-}
-.navlinks{
-  z-index: 1;
-    top: 0;
-    right: 0;
-    width: 50%;
-    height: 10%;
-    position: absolute;
-    display: flex;
-    flex-direction: row;
-    column-gap: 10%;
-    background: none;
 }

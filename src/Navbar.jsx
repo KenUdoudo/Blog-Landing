@@ -12,7 +12,7 @@ const Navbar = () => {
 
   return (
     <div className="navbar">
-      <img src={menuButton} onClick={()=>{setOpen(!open)}}  />
+      <img src={menuButton} onClick={()=>{setOpen(!open)}} id="menubtn"  />
       <div className="nav">
         <ul className={`navul ${open? 'active' : 'inactive'}`}>
           <li><a href="#">Home</a></li>
