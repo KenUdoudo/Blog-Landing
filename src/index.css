@@ -13,7 +13,6 @@
   position: absolute;
   right: 3%;
   cursor: pointer;
-
 }
 
 .navul.inactive{
@@ -51,6 +50,9 @@
 .nav ul li a{
   color: black;
   font-family: 'Roboto';
+}
+.navlinks{
+  display: none;
 }
 
 /*small laptops*/
