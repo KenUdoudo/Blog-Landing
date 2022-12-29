@@ -71,10 +71,3 @@
     padding: 6% 20%;
   }
 }
-/*small laptops*/
-@media screen and (min-width: 729px) {
-  .footer-bottom{
-    display: flex;
-    flex-direction: row;
-  }
-}
