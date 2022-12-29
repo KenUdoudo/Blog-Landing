@@ -72,4 +72,9 @@
   }
 }
 /*small laptops*/
-@media screen and (min-width: 729px) {}
+@media screen and (min-width: 729px) {
+  .footer-bottom{
+    display: flex;
+    flex-direction: row;
+  }
+}
