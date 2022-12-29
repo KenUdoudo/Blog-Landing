@@ -82,10 +82,9 @@
   }
   .navlinks{
     z-index: 1;
-    top: 0;
-    right: 0;
-    width: 50%;
-    height: 10%;
+    top: 2%;
+    right: 10%;
+    
     position: absolute;
     display: flex;
     flex-direction: row;
