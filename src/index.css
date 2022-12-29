@@ -83,3 +83,15 @@
     border-radius: 5px;
   }
 }
+.navlinks{
+  z-index: 1;
+    top: 0;
+    right: 0;
+    width: 50%;
+    height: 10%;
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    column-gap: 10%;
+    background: none;
+}
