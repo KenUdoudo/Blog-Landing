@@ -89,7 +89,10 @@
     position: absolute;
     display: flex;
     flex-direction: row;
-    column-gap: 10%;
+    column-gap: 5%;
     background: none;
+  }
+  .navlinks img{
+    display: block;
   }
 }
